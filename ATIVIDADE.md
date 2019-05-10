@@ -1,4 +1,4 @@
-# Atividade da Disciplina de Introdução
+# Atividade de Git 
 
 ## Testando um subtitulo
 
@@ -8,12 +8,11 @@ Testando um novo parágrafo.
 + Item 2
 + Item 3
 
-http://www.google.com
 
 ``` c
 #include <stdio.h>
 int main() {
-	printf("Olá GitHub")
+	printf("Hello World")
 	return 0;
 }
 ```
