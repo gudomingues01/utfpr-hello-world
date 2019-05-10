@@ -2,7 +2,7 @@
 
 ## Testando um subtitulo
 
-Testando um novo parágrafo.
+Testando um novo parágrafo...
 
 + Item 1
 + Item 2
